@@ -1,7 +1,7 @@
 <?php
 namespace Brainfuck;
 /**
- * @author  Rasmus Wallin <raz@theraz.se>
+ * @author  Rasmus Wallin <hej@rasmusw.se>
  * @version 1.0
  * @license Beerware <http://en.wikipedia.org/wiki/Beerware>
  */
