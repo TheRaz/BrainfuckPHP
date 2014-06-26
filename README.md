@@ -2,7 +2,7 @@ BrainfuckPHP
 ============
 
 A Brainfuck interpreter written purely in PHP, Big brother of [Derp++](https://github.com/TheRaz/DerpPlusPlus)
-For information on how brainfuck works please read [this article](en.wikipedia.org/wiki/Brainfuck)
+For information on how brainfuck works please read [this article](http://en.wikipedia.org/wiki/Brainfuck)
 
 
 Useage
