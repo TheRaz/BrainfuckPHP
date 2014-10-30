@@ -152,7 +152,9 @@ class Interpreter {
 				break;
 			}
 		}
-		print $this->output;
+		if($print) {
+			print $this->output;
+		}
 	}
 
 }
